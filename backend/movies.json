@@ -1,0 +1,322 @@
+[
+  {
+    "title": "Avengers infinity war",
+    "genre": "Action",
+    "type": "Hollywood",
+    "releasedYear": "2018",
+    "director": "Anthny Russo",
+    "rating": 9
+  },
+  {
+    "title": "Wonder Woman",
+    "genre": "Action",
+    "type": "Hollywood",
+    "releasedYear": "2017",
+    "director": "Patty Jenkins",
+    "rating": 8
+  },
+  {
+    "title": "Captain Marvel",
+    "genre": "Action",
+    "type": "Hollywood",
+    "releasedYear": "2019",
+    "director": "Ryan Fleck",
+    "rating": 7
+  },
+  {
+    "title": "Dead pool",
+    "genre": "Action",
+    "type": "Hollywood",
+    "releasedYear": "2018",
+    "director": "David Leitch",
+    "rating": 8
+  },
+  {
+    "title": "Venom",
+    "genre": "Action",
+    "type": "Hollywood",
+    "releasedYear": "2018",
+    "director": "Ruben Fleischer",
+    "rating": 9
+  },
+  {
+    "title": "Bahubali",
+    "genre": "Action",
+    "type": "Bollywood",
+    "releasedYear": "2017",
+    "director": "S.S Rajamouli",
+    "rating": 10
+  },
+  {
+    "title": "The Ghazi Attack",
+    "genre": "Action",
+    "type": "Bollywood",
+    "releasedYear": "2017",
+    "director": "Francis Ford Coppola",
+    "rating": 10
+  },
+  {
+    "title": "Point man",
+    "genre": "Action",
+    "type": "Bollywood",
+    "releasedYear": "2018",
+    "director": "Amar Kaushik",
+    "rating": 8
+  },
+  {
+    "title": "The Surgical Strike",
+    "genre": "Action",
+    "type": "Bollywood",
+    "releasedYear": "2019",
+    "director": "Aditya Dhar",
+    "rating": 10
+  },
+  {
+    "title": "Hotel mumbai",
+    "genre": "Action",
+    "type": "Bollywood",
+    "releasedYear": "2020",
+    "director": "David Prior",
+    "rating": 8
+  },
+  {
+    "title": "Jumanji Welcome to the jungle",
+    "genre": "Comedy",
+    "type": "Hollywood",
+    "releasedYear": "2017",
+    "director": "Jake Kasdan",
+    "rating": 8
+  },
+  {
+    "title": "Coco",
+    "genre": "Comedy",
+    "type": "Hollywood",
+    "releasedYear": "1942",
+    "director": "Michael Curtiz",
+    "rating": 9
+  },
+  {
+    "title": "Jojo Rabbit",
+    "genre": "Comedy",
+    "type": "Hollywood",
+    "releasedYear": "2019",
+    "director": "Taika Waititi",
+    "rating": 7
+  },
+  {
+    "title": "Dont Look up",
+    "genre": "Comedy",
+    "type": "Hollywood",
+    "releasedYear": "2021",
+    "director": "Adam McKay",
+    "rating": 9
+  },
+  {
+    "title": "Frozen",
+    "genre": "Comedy",
+    "type": "Hollywood",
+    "releasedYear": "2019",
+    "director": "Chris Buck",
+    "rating": 8
+  },
+  {
+    "title": "102 not out",
+    "genre": "Comedy",
+    "type": "Bollywood",
+    "releasedYear": "2018",
+    "director": "Umesh Shukla",
+    "rating": 10
+  },
+  {
+    "title": "Joly LLB 2",
+    "genre": "Comedy",
+    "type": "Bollywood",
+    "releasedYear": "2017",
+    "director": "subhash kapoor",
+    "rating": 10
+  },
+  {
+    "title": "Bhediya",
+    "genre": "Comedy",
+    "type": "Bollywood",
+    "releasedYear": "2022",
+    "director": "Steven Spielberg",
+    "rating": 6
+  },
+  {
+    "title": "Jug jug jiyo",
+    "genre": "Comedy",
+    "type": "Bollywood",
+    "releasedYear": "2022",
+    "director": "Raj mehta",
+    "rating": 8
+  },
+  {
+    "title": "Simba",
+    "genre": "Comedy",
+    "type": "Bollywood",
+    "releasedYear": "2018",
+    "director": "Victor Fleming",
+    "rating": 4
+  },
+  {
+    "title": "split",
+    "genre": "Thriller",
+    "type": "Hollywood",
+    "releasedYear": "2017",
+    "director": "John Rusk",
+    "rating": 5
+  },
+  {
+    "title": "Joker",
+    "genre": "Thriller",
+    "type": "Hollywood",
+    "releasedYear": "2019",
+    "director": "Carolina Jimenez",
+    "rating": 9
+  },
+  {
+    "title": "Parasite",
+    "genre": "Thriller",
+    "type": "Hollywood",
+    "releasedYear": "2019",
+    "director": "Boon joon-ho",
+    "rating": 7
+  },
+  {
+    "title": "Bird Box",
+    "genre": "Thriller",
+    "type": "Hollywood",
+    "releasedYear": "2018",
+    "director": "Susane bier",
+    "rating": 5
+  },
+  {
+    "title": "Tenet",
+    "genre": "Thriller",
+    "type": "Hollywood",
+    "releasedYear": "2020",
+    "director": "Christopher Nolan",
+    "rating": 6
+  },
+  {
+    "title": "Jawan",
+    "genre": "Thriller",
+    "type": "Bollywood",
+    "releasedYear": "2022",
+    "director": "Atle",
+    "rating": 4
+  },
+  {
+    "title": "Knives out",
+    "genre": "Thriller",
+    "type": "Bollywood",
+    "releasedYear": "2019",
+    "director": "Rian jhonson",
+    "rating": 7
+  },
+  {
+    "title": "Arya",
+    "genre": "Thriller",
+    "type": "Bollywood",
+    "releasedYear": "2020",
+    "director": "Ram madhvani",
+    "rating": 5
+  },
+  {
+    "title": "Ek tha tiger",
+    "genre": "Thriller",
+    "type": "Bollywood",
+    "releasedYear": "2019",
+    "director": "kabir khan",
+    "rating": 6
+  },
+  {
+    "title": "Sultan",
+    "genre": "Thriller",
+    "type": "Bollywood",
+    "releasedYear": "2018",
+    "director": "Ali Abbas zafar",
+    "rating": 8
+  },
+  {
+    "title": "Rebel Moon",
+    "genre": "Fantasy",
+    "type": "Hollywood",
+    "releasedYear": "2022",
+    "director": "Zack Synder",
+    "rating": 9
+  },
+  {
+    "title": "Barbie",
+    "genre": "Fantasy",
+    "type": "Hollywood",
+    "releasedYear": "2021",
+    "director": "Greta Gerwig",
+    "rating": 9
+  },
+  {
+    "title": "Downsizing",
+    "genre": "Fantasy",
+    "type": "Hollywood",
+    "releasedYear": "2017",
+    "director": "Alexander Payne",
+    "rating": 7
+  },
+  {
+    "title": "The little mermaid",
+    "genre": "Fantasy",
+    "type": "Hollywood",
+    "releasedYear": "2018",
+    "director": "Rob Marshall",
+    "rating": 10
+  },
+  {
+    "title": "The grinch",
+    "genre": "Fantasy",
+    "type": "Bollywood",
+    "releasedYear": "2018",
+    "director": "Yarrow Cheney",
+    "rating": 6
+  },
+  {
+    "title": "Eternals",
+    "genre": "Fantasy",
+    "type": "Bollywood",
+    "releasedYear": "2021",
+    "director": "Chloe Zhao",
+    "rating": 7
+  },
+  {
+    "title": "the last voyage",
+    "genre": "Fantasy",
+    "type": "Hollywood",
+    "releasedYear": "2022",
+    "director": "Andre Ovredal",
+    "rating": 8
+  },
+  {
+    "title": "inside out",
+    "genre": "Fantansy",
+    "type": "Bollywood",
+    "releasedYear": "2017",
+    "director": "pete docter",
+    "rating": 7
+  },
+  {
+    "title": "finding nemo",
+    "genre": "Fantasy",
+    "type": "Bollywood",
+    "releasedYear": "2019",
+    "director": "Andrew Stanton",
+    "rating": 8
+  },
+  {
+    "title": "Ratatouille",
+    "genre": "Fantasy",
+    "type": "Hollywood",
+    "releasedYear": "2018",
+    "director": "Brad Bied",
+    "rating": 5
+  }
+]

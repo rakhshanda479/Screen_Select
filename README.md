@@ -19,11 +19,11 @@ It recommends movies based on user history, allows signup/login, and displays re
 ##  Features
 -  Eye-catching gradient UI  
 - Colored genre/type/year badges  
--  Original posters via TMDB API (with fallback placeholders)  
+-  Original posters via TMDB API  
 -  Add-to-History button  
 -  User history saved per account  
 -  Personalized recommendations (based on history)  
--  Signup/Login system (localStorage)  
+-  Signup/Login system   
 -  Password must be 8+ characters with letters & numbers 
 - Feedback buttons 
 

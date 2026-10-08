@@ -1,6 +1,6 @@
 # Screen_Select
 
-Screen_Select is a simple Movie Recommendation System built with a C++ backend (k-d tree) and a modern HTML/CSS/JS frontend.  
+Screen_Select is a simple Movie Recommendation System built with a C++ (k-d tree) and a modern HTML/CSS/JS frontend.  
 It recommends movies based on user history, allows signup/login, and displays real posters fetched from TMDB API.  
 
 ## Screenshots
